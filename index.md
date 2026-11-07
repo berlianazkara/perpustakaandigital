@@ -1,6 +1,12 @@
-Selamat datang di Perpustakaan Digital milik
-Nama: Berlian Azka Ramadhani
-NIM: 13040124130052
+<main class="container">
+    <section class="hero" id="tentang">
+      <h1>Selamat datang di perpustakaan digital.</h1>
+      <p>Temukan cerita, gagasan, dan pengetahuan dalam koleksi bacaan pilihan. Selamat menjelajah dan membaca!</p>
+      <div class="profile">
+        <span>♙ <strong>Berlian Azka Ramadhani</strong></span>
+        <span>▤ <strong>13040124130052</strong></span>
+      </div>
+    </section>
 Berikut ini adalah koleksi yang dimiliki:
 ## Koleksi
 1. [Pride and Prejudice](ebook/prideandprejudice.pdf) – Jane Austen (1813)
